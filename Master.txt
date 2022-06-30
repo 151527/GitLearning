@@ -1,2 +1,5 @@
 Master document
 Changes made by B
+Chanages made by A
+Changes made by A before merging into B
+
